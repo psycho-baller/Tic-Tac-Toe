@@ -1,4 +1,4 @@
-different commands to play the game:
+# different commands to play the game:
 
 command structure: start {player1} {player2}
 player 1 & 2 can be: 'easy', 'medium', 'hard', and 'user'
